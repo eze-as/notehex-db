@@ -1,2 +1,27 @@
-8 elements
-links:
+//cantidad de temas
+8 themes 
+themes:
+//links de ejemplo
+link1
+link2
+link3
+...
+//cantidad x de plugins
+X plugins 
+link1
+link2
+link3
+...
+//cantidad de imagenes de temas. (.jpg/.png/.svg/.webp/.avif)
+8 image-themes 
+link1
+link2
+link3
+...
+//cantidad de imagenes de plugins. (.jpg/.png/.svg/.webp/.avif)
+X image-plugins 
+link1
+link2
+link3
+...
+//Que piensas de este formato?
