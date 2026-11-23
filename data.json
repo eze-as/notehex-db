@@ -2,9 +2,14 @@
 8 themes 
 themes:
 //links de ejemplo
-link1
-link2
-link3
+https://github.com/eze-as/notehex-db/raw/refs/heads/main/crimson_eclipse.json
+https://github.com/eze-as/notehex-db/raw/refs/heads/main/dracula_pro.json
+https://github.com/eze-as/notehex-db/raw/refs/heads/main/gruvbox_warm.json
+https://github.com/eze-as/notehex-db/raw/refs/heads/main/monokai_vivid.json
+https://github.com/eze-as/notehex-db/raw/refs/heads/main/nord_arctic.json
+https://github.com/eze-as/notehex-db/raw/refs/heads/main/solarized_dark.json
+https://github.com/eze-as/notehex-db/raw/refs/heads/main/solarized_light.json
+https://github.com/eze-as/notehex-db/raw/refs/heads/main/tokyo_night.json
 ...
 //cantidad x de plugins
 X plugins 
