@@ -1,0 +1,31 @@
+{
+  "id": "dracula_pro",
+  "name": "Dracula Pro",
+  "description": "Tema oscuro de alto contraste con acentos violeta y cian.",
+  "colors": {
+    "bg_window": "#1E1F29",
+    "bg_toolbar": "#282A36",
+    "bg_editor": "#191A21",
+    "bg_gutter": "#21222C",
+    "bg_statusbar": "#282A36",
+    "bg_tab_active": "#BD93F9",
+    "bg_tab_inactive": "#343746",
+    "bg_hover": "#44475A",
+    "bg_current_line": "#262835",
+    "fg_text": "#F8F8F2",
+    "fg_gutter": "#6272A4",
+    "fg_hex": "#8BE9FD",
+    "fg_hex_null": "#44475A",
+    "fg_ascii": "#50FA7B",
+    "fg_muted": "#A6ACCD",
+    "border": "#44475A",
+    "accent": "#BD93F9",
+    "accent_fg": "#191A21",
+    "syn_keyword": "#FF79C6",
+    "syn_function": "#50FA7B",
+    "syn_builtin": "#8BE9FD",
+    "syn_string": "#F1FA8C",
+    "syn_comment": "#6272A4",
+    "syn_number": "#FFB86C"
+  }
+}

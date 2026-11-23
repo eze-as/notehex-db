@@ -1,0 +1,31 @@
+{
+  "id": "crimson_eclipse",
+  "name": "Crimson Eclipse",
+  "description": "Negro volcánico con detalles rojo carmesí y plata.",
+  "colors": {
+    "bg_window": "#110D10",
+    "bg_toolbar": "#1A1318",
+    "bg_editor": "#0D090C",
+    "bg_gutter": "#150F13",
+    "bg_statusbar": "#1A1318",
+    "bg_tab_active": "#E11D48",
+    "bg_tab_inactive": "#291D25",
+    "bg_hover": "#382732",
+    "bg_current_line": "#1D1319",
+    "fg_text": "#F4E8EE",
+    "fg_gutter": "#7A5C6C",
+    "fg_hex": "#FDA4AF",
+    "fg_hex_null": "#33222B",
+    "fg_ascii": "#6EE7B7",
+    "fg_muted": "#9E7E8F",
+    "border": "#2E2028",
+    "accent": "#E11D48",
+    "accent_fg": "#FFFFFF",
+    "syn_keyword": "#FB7185",
+    "syn_function": "#F472B6",
+    "syn_builtin": "#38BDF8",
+    "syn_string": "#FDE047",
+    "syn_comment": "#7A5C6C",
+    "syn_number": "#A78BFA"
+  }
+}

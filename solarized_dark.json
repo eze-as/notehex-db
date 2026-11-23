@@ -1,0 +1,31 @@
+{
+  "id": "solarized_dark",
+  "name": "Solarized Dark",
+  "description": "Esquema azul petróleo equilibrado con acentos cálidos.",
+  "colors": {
+    "bg_window": "#00212B",
+    "bg_toolbar": "#073642",
+    "bg_editor": "#001E26",
+    "bg_gutter": "#042B35",
+    "bg_statusbar": "#073642",
+    "bg_tab_active": "#268BD2",
+    "bg_tab_inactive": "#0B4352",
+    "bg_hover": "#115162",
+    "bg_current_line": "#062D37",
+    "fg_text": "#93A1A1",
+    "fg_gutter": "#586E75",
+    "fg_hex": "#2AA198",
+    "fg_hex_null": "#164450",
+    "fg_ascii": "#859900",
+    "fg_muted": "#657B83",
+    "border": "#124957",
+    "accent": "#268BD2",
+    "accent_fg": "#FDF6E3",
+    "syn_keyword": "#859900",
+    "syn_function": "#268BD2",
+    "syn_builtin": "#2AA198",
+    "syn_string": "#2AA198",
+    "syn_comment": "#586E75",
+    "syn_number": "#D33682"
+  }
+}

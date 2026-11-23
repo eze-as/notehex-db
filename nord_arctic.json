@@ -1,0 +1,31 @@
+{
+  "id": "nord_arctic",
+  "name": "Nord Arctic",
+  "description": "Paleta ártica suave azul-grisácea descansada para sesiones largas.",
+  "colors": {
+    "bg_window": "#242933",
+    "bg_toolbar": "#2E3440",
+    "bg_editor": "#1F242D",
+    "bg_gutter": "#292E39",
+    "bg_statusbar": "#2E3440",
+    "bg_tab_active": "#88C0D0",
+    "bg_tab_inactive": "#3B4252",
+    "bg_hover": "#434C5E",
+    "bg_current_line": "#2A303C",
+    "fg_text": "#ECEFF4",
+    "fg_gutter": "#616E88",
+    "fg_hex": "#81A1C1",
+    "fg_hex_null": "#3B4252",
+    "fg_ascii": "#A3BE8C",
+    "fg_muted": "#9AA5B8",
+    "border": "#3B4252",
+    "accent": "#88C0D0",
+    "accent_fg": "#1F242D",
+    "syn_keyword": "#81A1C1",
+    "syn_function": "#88C0D0",
+    "syn_builtin": "#5E81AC",
+    "syn_string": "#A3BE8C",
+    "syn_comment": "#616E88",
+    "syn_number": "#B48EAD"
+  }
+}

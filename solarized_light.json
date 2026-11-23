@@ -1,0 +1,31 @@
+{
+  "id": "solarized_light",
+  "name": "Solarized Light",
+  "description": "Tema claro crema suave sin deslumbramiento diurno.",
+  "colors": {
+    "bg_window": "#EEE8D5",
+    "bg_toolbar": "#F5EFDC",
+    "bg_editor": "#FDF6E3",
+    "bg_gutter": "#F3ECD8",
+    "bg_statusbar": "#E6DFCB",
+    "bg_tab_active": "#268BD2",
+    "bg_tab_inactive": "#E2DAC4",
+    "bg_hover": "#D5CCB4",
+    "bg_current_line": "#F5EEDB",
+    "fg_text": "#586E75",
+    "fg_gutter": "#93A1A1",
+    "fg_hex": "#268BD2",
+    "fg_hex_null": "#D3CCB8",
+    "fg_ascii": "#859900",
+    "fg_muted": "#657B83",
+    "border": "#D3CCB8",
+    "accent": "#268BD2",
+    "accent_fg": "#FDF6E3",
+    "syn_keyword": "#859900",
+    "syn_function": "#268BD2",
+    "syn_builtin": "#CB4B16",
+    "syn_string": "#2AA198",
+    "syn_comment": "#93A1A1",
+    "syn_number": "#D33682"
+  }
+}

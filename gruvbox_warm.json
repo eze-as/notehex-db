@@ -1,0 +1,31 @@
+{
+  "id": "gruvbox_warm",
+  "name": "Gruvbox Warm",
+  "description": "Tonos tierra y ámbar cálidos de alto contraste.",
+  "colors": {
+    "bg_window": "#1D2021",
+    "bg_toolbar": "#282828",
+    "bg_editor": "#1B1B1B",
+    "bg_gutter": "#242424",
+    "bg_statusbar": "#282828",
+    "bg_tab_active": "#FABD2F",
+    "bg_tab_inactive": "#3C3836",
+    "bg_hover": "#504945",
+    "bg_current_line": "#282624",
+    "fg_text": "#EBDBB2",
+    "fg_gutter": "#7C6F64",
+    "fg_hex": "#83A598",
+    "fg_hex_null": "#3C3836",
+    "fg_ascii": "#B8BB26",
+    "fg_muted": "#A89984",
+    "border": "#3C3836",
+    "accent": "#FABD2F",
+    "accent_fg": "#1D2021",
+    "syn_keyword": "#FB4934",
+    "syn_function": "#B8BB26",
+    "syn_builtin": "#8EC07C",
+    "syn_string": "#FABD2F",
+    "syn_comment": "#928374",
+    "syn_number": "#D3869B"
+  }
+}

@@ -1,0 +1,31 @@
+{
+  "id": "tokyo_night",
+  "name": "Tokyo Night",
+  "description": "Neón nocturno azul profundo inspirado en Tokio de noche.",
+  "colors": {
+    "bg_window": "#16161E",
+    "bg_toolbar": "#1F2335",
+    "bg_editor": "#1A1B26",
+    "bg_gutter": "#181924",
+    "bg_statusbar": "#1F2335",
+    "bg_tab_active": "#7AA2F7",
+    "bg_tab_inactive": "#292E42",
+    "bg_hover": "#333952",
+    "bg_current_line": "#222433",
+    "fg_text": "#C0CAF5",
+    "fg_gutter": "#565F89",
+    "fg_hex": "#7DCFFF",
+    "fg_hex_null": "#2F354D",
+    "fg_ascii": "#9ECE6A",
+    "fg_muted": "#7982A9",
+    "border": "#292E42",
+    "accent": "#7AA2F7",
+    "accent_fg": "#16161E",
+    "syn_keyword": "#BB9AF7",
+    "syn_function": "#7AA2F7",
+    "syn_builtin": "#2AC3DE",
+    "syn_string": "#9ECE6A",
+    "syn_comment": "#565F89",
+    "syn_number": "#FF9E64"
+  }
+}
